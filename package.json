@@ -1,6 +1,6 @@
 {
   "name": "azunt",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A modular utility library by Azunt, starting with timezone helpers and designed for extensibility.",
   "main": "src/azunt.js",
   "scripts": {
