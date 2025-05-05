@@ -1,0 +1,27 @@
+{
+  "name": "azunt",
+  "version": "1.0.1",
+  "description": "A modular utility library by Azunt, starting with timezone helpers and designed for extensibility.",
+  "main": "src/azunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisualAcademy/azunt.js.git"
+  },
+  "keywords": [
+    "utility",
+    "timezone",
+    "javascript",
+    "helper",
+    "azunt",
+    "modular"
+  ],
+  "author": "Azunt <azunt.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VisualAcademy/azunt.js/issues"
+  },
+  "homepage": "https://github.com/VisualAcademy/azunt.js#readme"
+}
