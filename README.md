@@ -10,7 +10,7 @@ A modular JavaScript utility library by Azunt, starting with timezone helpers.
 ## Usage
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/azunt.js/src/azunt.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/VisualAcademy/azunt.js/src/azunt.js"></script>
 <script>
   console.log(azunt.getLocalOffsetMinutes()); // e.g. -540
 </script>
