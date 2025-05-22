@@ -1,7 +1,7 @@
 {
   "name": "azunt",
-  "version": "1.1.0",
-  "description": "A modular utility library by Azunt, starting with timezone helpers and designed for extensibility.",
+  "version": "1.1.1",
+  "description": "A modular utility library by Azunt, including timezone helpers, emoji-safe text truncation, ellipsis styling, and unified UI utilities.",
   "main": "src/azunt.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,12 @@
     "javascript",
     "helper",
     "azunt",
-    "modular"
+    "modular",
+    "truncate",
+    "ellipsis",
+    "style",
+    "ui",
+    "dom"
   ],
   "author": "Azunt <azunt.com@gmail.com>",
   "license": "MIT",
